@@ -1,6 +1,8 @@
 # aluraspa
 Project developed with Sass
 
+project: https://fulviavaz.github.io/aluraspa/
+
 
 In this course I:
 
